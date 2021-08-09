@@ -1,4 +1,4 @@
 # hello-world
 just another repository
 
- I'm larning python for personal purpose
+ I'm learning python for personal purpose
